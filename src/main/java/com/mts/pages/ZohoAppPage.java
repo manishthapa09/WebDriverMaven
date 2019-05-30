@@ -21,7 +21,6 @@ public class ZohoAppPage extends Page{
 
 	public CRMHomePage goToCRM() {
 
-		Page.driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		click("crmlink_XPATH");
 		
 		return new CRMHomePage();
