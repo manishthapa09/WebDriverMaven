@@ -12,6 +12,7 @@ public class LoginTest{
 
 	public static void main(String[] args) {
 		
+		//Using EGit plugin
 		HomePage home = new HomePage();
 		LoginPage lp = home.goToLogin();
 		ZohoAppPage zp = lp.doLogin("manishthapa09@gmail.com", "mondeo35");
