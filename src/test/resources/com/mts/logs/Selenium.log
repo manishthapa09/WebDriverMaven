@@ -1,21 +1,17 @@
-12:20:27,380 DEBUG devpinoyLogger:63 - Config file loaded !!!
-12:20:27,386 DEBUG devpinoyLogger:78 - OR file loaded !!!
-12:20:36,526 DEBUG devpinoyLogger:125 - Navigated to : https://www.zoho.com
-12:20:39,511 DEBUG devpinoyLogger:150 - Clicking on an Element : loginlink_XPATH
-12:20:39,946 DEBUG devpinoyLogger:164 - Typing in an Element : email_XPATH entered value as : manishthapa09@gmail.com
-12:20:40,109 DEBUG devpinoyLogger:164 - Typing in an Element : password_XPATH entered value as : mondeo35
-12:20:40,222 DEBUG devpinoyLogger:150 - Clicking on an Element : signbtn_XPATH
-12:20:40,793 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-12:20:40,795 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-12:20:40,798 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-12:20:40,801 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-12:20:40,802 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-12:20:55,335 DEBUG devpinoyLogger:150 - Clicking on an Element : crmlink_XPATH
-12:20:55,481 DEBUG devpinoyLogger:150 - Clicking on an Element : accountstab_XPATH
-12:20:56,012 DEBUG devpinoyLogger:150 - Clicking on an Element : createaccountbtn_XPATH
-12:20:56,605 DEBUG devpinoyLogger:164 - Typing in an Element : accountname_XPATH entered value as : Manish
-12:20:57,060 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-12:20:57,061 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-12:20:57,061 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-12:20:57,061 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-12:20:57,061 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:10:39,631 DEBUG devpinoyLogger:63 - Config file loaded !!!
+09:10:39,637 DEBUG devpinoyLogger:78 - OR file loaded !!!
+09:10:49,522 DEBUG devpinoyLogger:125 - Navigated to : https://www.zoho.com
+09:10:52,824 DEBUG devpinoyLogger:150 - Clicking on an Element : loginlink_XPATH
+09:10:53,191 DEBUG devpinoyLogger:164 - Typing in an Element : email_XPATH entered value as : manishthapa09@gmail.com
+09:10:53,359 DEBUG devpinoyLogger:164 - Typing in an Element : password_XPATH entered value as : mondeo35
+09:10:53,456 DEBUG devpinoyLogger:150 - Clicking on an Element : signbtn_XPATH
+09:10:53,485 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:10:53,486 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:10:53,487 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:10:53,488 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:10:53,488 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:10:59,272 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:10:59,273 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:10:59,274 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:10:59,274 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:10:59,276 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
